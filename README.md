@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋<img src="https://github.com/zzerii/zzerii/issues/1#issue-829425897?raw=true" width="25px">
 
 <!--
 **zzerii/zzerii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
