@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="right"></p>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzerii%2Fhit-counter&count_bg=%2347A3FF&title_bg=%23D49CFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Microsoft Azure-0089D6?style=flat-square&logo=Microsoft Azure&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
-</p>&nbsp&nbsp
+</p>&nbsp&nbsp&nbsp&nbsp
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzerii&show_icons=true&theme=buefy&count_private=true)
