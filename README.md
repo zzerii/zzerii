@@ -24,6 +24,7 @@ My RESUME -> https://www.notion.so/zzerii/RESUME-c44132ffda994039b83699d3a8525bb
 <img src="https://img.shields.io/badge/Microsoft Azure-0089D6?style=flat-square&logo=Azure&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Terraform-7952B3?style=flat-square&logo=Terraform&logoColor=white"/>&nbsp
 </p>&nbsp&nbsp&nbsp&nbsp
 
 
